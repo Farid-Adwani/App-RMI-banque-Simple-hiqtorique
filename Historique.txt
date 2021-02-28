@@ -1,0 +1,30 @@
+ala hamroun votre id est 3 et Votre Mot de passe est : one
+-------------------------
+ala hamroun 10000.0 dt sont ajoutees a votre compte
+-------------------------
+Donnees invalides, Veuillez ressayer...
+-------------------------
+ala hamroun 1001.0 dt sont retranchees de votre compte
+-------------------------
+farid adwani votre id est 4 et Votre Mot de passe est : two
+-------------------------
+Donnees invalides, Veuillez ressayer...
+-------------------------
+farid adwani 10.0 dt sont ajoutees a votre compte
+-------------------------
+farid adwani 1.0 dt sont retranchees de votre compte
+-------------------------
+ala hamroun 1000.0 dt ont ete ajoutees au compte 2 defarid adwani
+-------------------------
+ala hamroun Votre Solde est: 15998.0 dt
+-------------------------
+farid adwani Votre Solde est: -97982.0 dt
+-------------------------
+farid adwani 100000.0 dt sont retranchees de votre compte
+-------------------------
+farid adwani Votre Solde est: -197982.0 dt
+-------------------------
+ala hamroun votre compte est debiteur
+-------------------------
+farid adwani votre compte est crediteur
+-------------------------

@@ -1,0 +1,27 @@
+Voici l'Historique de la derniere session 
+ala hamroun a cree son nouveau compte sous l' ID : 1
+ala hamroun a ajoute 10000.0  a  son compte.
+ala hamroun a enleve 1001.0  de  son compte.
+farid adwani a cree son nouveau compte sous l' ID : 2
+farid adwani a ajoute 10.0  a  son compte.
+farid adwani a enleve 1.0  de  son compte.
+ala hamroun a transfere 1000.0  au compte de farid adwani
+ala hamroun a accede au valeur de son compte.
+farid adwani a accede au valeur de son compte.
+farid adwani a enleve 100000.0  de  son compte.
+farid adwani a accede au valeur de son compte.
+ala hamroun a acceder a l'etat de son compte.
+farid adwani a acceder a l'etat de son compte.
+ala hamroun a cree son nouveau compte sous l' ID : 3
+ala hamroun a ajoute 10000.0  a  son compte.
+ala hamroun a enleve 1001.0  de  son compte.
+farid adwani a cree son nouveau compte sous l' ID : 4
+farid adwani a ajoute 10.0  a  son compte.
+farid adwani a enleve 1.0  de  son compte.
+ala hamroun a transfere 1000.0  au compte de farid adwani
+ala hamroun a accede au valeur de son compte.
+farid adwani a accede au valeur de son compte.
+farid adwani a enleve 100000.0  de  son compte.
+farid adwani a accede au valeur de son compte.
+ala hamroun a acceder a l'etat de son compte.
+farid adwani a acceder a l'etat de son compte.
